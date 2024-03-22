@@ -53,12 +53,14 @@
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Intellij](https://img.shields.io/badge/IntelliJ%20IDEA%20-%231572B6.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
+    ![NetBeans](https://img.shields.io/badge/Apache%20NetBeans%20-SAC56.svg?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
   
 <br>
 
 - **Extras**:
   
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
+    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+    ![Azure](https://img.shields.io/badge/Azure%20DevOps%20-2A7BA0.svg?style=for-the-badge&logo=azuredevops&logoColor=white)   
 
 
 </p>
