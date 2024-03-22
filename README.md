@@ -32,6 +32,7 @@
 <p align="center">
 
 - **Languages**:
+<br>
    <a href="https://www.java.com/es/" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/182px-Java_programming_language_logo.svg.png" alt="java" width="40" height="40" style="max-width: 100%;"> </a>
 
 <br>   
